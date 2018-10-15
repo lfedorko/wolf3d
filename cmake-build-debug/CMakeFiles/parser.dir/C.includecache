@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lfedorko/CLionProjects/parser/libft/ft_putchar.c
+libft.h
+/Users/lfedorko/CLionProjects/parser/libft/libft.h
+
+/Users/lfedorko/CLionProjects/parser/libft/libft.h
+string.h
+-
+unistd.h
+-
+stdlib.h
+-
+
